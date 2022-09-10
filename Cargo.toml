@@ -1,5 +1,5 @@
 [package]
-name = "ref_cell"
+name = "lucky_draw"
 version = "0.1.0"
 edition = "2021"
 
